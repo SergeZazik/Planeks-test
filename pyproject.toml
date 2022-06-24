@@ -9,7 +9,7 @@ python = "^3.7"
 Django = "^2.2.6"
 celery = "^4.3.0"
 django-crispy-forms = "^1.7"
-pillow = "^6.2"
+pillow = "^9.0"
 django-ckeditor = "^5.7"
 django-contrib-comments = "^1.9"
 
